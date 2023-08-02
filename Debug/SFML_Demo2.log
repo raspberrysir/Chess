@@ -1,0 +1,629 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Games.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Board.cpp
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(23,63): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(23,55): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(30,63): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(30,55): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(38,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(38,65): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(45,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(45,65): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(52,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(52,65): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(59,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(59,65): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(66,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(66,65): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(73,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(73,65): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(80,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(80,65): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(87,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(87,65): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(94,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(94,65): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(101,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(101,65): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(108,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(108,65): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(115,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(115,65): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Game.cpp
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(23,63): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(23,55): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(30,63): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(30,55): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(38,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(38,65): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(45,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(45,65): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(52,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(52,65): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(59,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(59,65): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(66,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(66,65): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(73,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(73,65): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(80,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(80,65): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(87,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(87,65): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(94,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(94,65): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(101,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(101,65): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(108,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(108,65): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(115,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(115,65): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Game.cpp(52,78): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Game.cpp(52,59): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Game.cpp(66,101): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Game.cpp(66,73): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Game.cpp(81,97): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Game.cpp(81,71): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  main.cpp
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(23,63): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(23,55): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(30,63): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(30,55): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(38,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(38,65): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(45,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(45,65): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(52,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(52,65): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(59,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(59,65): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(66,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(66,65): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(73,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(73,65): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(80,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(80,65): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(87,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(87,65): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(94,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(94,65): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(101,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(101,65): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(108,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(108,65): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(115,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(115,65): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Game.cpp(52,78): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Game.cpp(52,59): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Game.cpp(66,101): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Game.cpp(66,73): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Game.cpp(81,97): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Game.cpp(81,71): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Move.cpp
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(23,63): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(23,55): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(30,63): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(30,55): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(38,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(38,65): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(45,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(45,65): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(52,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(52,65): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(59,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(59,65): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(66,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(66,65): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(73,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(73,65): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(80,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(80,65): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(87,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(87,65): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(94,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(94,65): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(101,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(101,65): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(108,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(108,65): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(115,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\SFML_Demo2\Board.cpp(115,65): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Piece.cpp
+  Tile.cpp
+  Generating Code...
+  SFML_Demo2.vcxproj -> C:\Users\Abhinav Pothuri\source\repos\SFML_Demo2\Debug\Chess.exe
